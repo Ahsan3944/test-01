@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "title": "Welcome to the UltraOP Blog",
+      "slug": "welcome-ultraop",
+      "date": "2025-08-08",
+      "excerpt": "First post",
+      "content": "<p>Welcome! This is the UltraOP blog. Share updates and tips here.</p>"
+    }
+  ]
+}
